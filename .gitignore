@@ -1,0 +1,19 @@
+# compiled output
+/dist
+/node_modules
+
+# logs
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+npm-debug.log*
+
+# system files
+.DS_Store
+
+# environment variables
+.env
+.env.test
+
+# coverage directory
+/coverage
